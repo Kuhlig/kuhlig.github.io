@@ -29,5 +29,73 @@
 				"addressLocality": "München"
 			}
 		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "EducationEvent",
+		"name": "ICO ISMS 27001 Foundation",
+		"startDate": "2024-06-12",
+		"url": "https://www.mitsm.de/schulung/iso-27001/",
+		"organizer": "collig",
+		"eventStatus": "https://schema.org/EventScheduled",
+		"eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+		"location": {
+			"@type": "Place",
+			"address": {
+				"@type": "PostalAddress",
+				"addressLocality": "München"
+			}
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "EducationEvent",
+		"name": "ICO ISMS 27001 Foundation",
+		"startDate": "2025-06-12",
+		"url": "https://www.mitsm.de/schulung/iso-27001/",
+		"organizer": "collig",
+		"eventStatus": "https://schema.org/EventScheduled",
+		"eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+		"location": {
+			"@type": "Place",
+			"address": {
+				"@type": "PostalAddress",
+				"addressLocality": "München"
+			}
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "EducationEvent",
+		"name": "ICO ISMS 27001 Foundation",
+		"startDate": "2026-06-12",
+		"url": "https://www.mitsm.de/schulung/iso-27001/",
+		"organizer": "collig",
+		"eventStatus": "https://schema.org/EventScheduled",
+		"eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+		"location": {
+			"@type": "Place",
+			"address": {
+				"@type": "PostalAddress",
+				"addressLocality": "München"
+			}
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "EducationEvent",
+		"name": "ICO ISMS 27001 Foundation",
+		"startDate": "2027-06-12",
+		"url": "https://www.mitsm.de/schulung/iso-27001/",
+		"organizer": "collig",
+		"eventStatus": "https://schema.org/EventScheduled",
+		"eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+		"location": {
+			"@type": "Place",
+			"address": {
+				"@type": "PostalAddress",
+				"addressLocality": "München"
+			}
+		}
 	}
 ]
